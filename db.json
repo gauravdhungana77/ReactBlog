@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "This is test blog",
+      "author": "Gaurav Dhungana",
+      "content": "This is test blog.",
+      "id": 1
+    },
+    {
+      "title": "Test demo",
+      "author": "Gaurav Dhungana",
+      "content": "This is test demo2\n.",
+      "id": 2
+    }
+  ]
+}

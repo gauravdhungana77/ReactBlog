@@ -1,0 +1,26 @@
+.mainbar{
+    height:70px;
+    display:flex;
+    justify-Content:space-between;
+    align-items: center;
+    background-color: #EFF1DB;
+    padding: 0 4rem;
+}
+.sub_links_div{
+    display: flex;
+    justify-content: center;
+
+}
+
+.link{
+    margin: 0 1rem;
+    font-size: 2rem;
+    color: #FB6B90;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.banner{
+    font-size: 4rem;
+    color: #FB6B90;
+}
